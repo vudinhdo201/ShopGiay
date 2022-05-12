@@ -1,0 +1,217 @@
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\ApplicationInsights.config
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\roslyn\csc.exe
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\roslyn\System.Collections.Immutable.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\roslyn\vbc.exe
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\roslyn\VBCSCompiler.exe
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\roslyn\VBCSCompiler.exe.config
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\DullStore.dll.config
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\DullStore.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\DullStore.pdb
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\Microsoft.AI.DependencyCollector.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\Microsoft.AI.Web.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\Microsoft.AI.WindowsServer.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\Microsoft.ApplicationInsights.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\Microsoft.Web.Infrastructure.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\System.Web.Helpers.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\System.Web.Mvc.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\System.Web.Razor.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\System.Web.Webpages.Deployment.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\System.Web.Webpages.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\System.Web.Webpages.Razor.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\Microsoft.AI.DependencyCollector.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\Microsoft.AI.Web.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\Microsoft.AI.WindowsServer.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\Microsoft.ApplicationInsights.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\System.Web.Razor.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\System.Web.Webpages.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\System.Web.Webpages.Deployment.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\System.Web.Webpages.Razor.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\System.Web.Helpers.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\System.Web.Mvc.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\obj\Debug\DullStore.csprojResolveAssemblyReference.cache
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\obj\Debug\DullStore.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\obj\Debug\DullStore.pdb
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\EntityFramework.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\EntityFramework.SqlServer.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\EntityFramework.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\EntityFramework.SqlServer.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\PagedList.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\PagedList.Mvc.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\PagedList.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Nhóm\DullStore\DullStore\bin\PagedList.Mvc.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\ApplicationInsights.config
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\roslyn\csc.exe
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\roslyn\System.Collections.Immutable.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\roslyn\vbc.exe
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\roslyn\VBCSCompiler.exe
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\roslyn\VBCSCompiler.exe.config
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\DullStore.dll.config
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\DullStore.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\DullStore.pdb
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\EntityFramework.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\EntityFramework.SqlServer.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\Microsoft.AI.DependencyCollector.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\Microsoft.AI.Web.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\Microsoft.AI.WindowsServer.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\Microsoft.ApplicationInsights.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\Microsoft.Web.Infrastructure.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\PagedList.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\PagedList.Mvc.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\System.Web.Helpers.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\System.Web.Mvc.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\System.Web.Razor.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\System.Web.Webpages.Deployment.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\System.Web.Webpages.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\System.Web.Webpages.Razor.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\EntityFramework.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\EntityFramework.SqlServer.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\Microsoft.AI.DependencyCollector.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\Microsoft.AI.Web.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\Microsoft.AI.WindowsServer.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\Microsoft.ApplicationInsights.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\PagedList.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\PagedList.Mvc.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\System.Web.Razor.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\System.Web.Webpages.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\System.Web.Webpages.Deployment.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\System.Web.Webpages.Razor.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\System.Web.Helpers.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\bin\System.Web.Mvc.xml
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\obj\Debug\DullStore.csprojResolveAssemblyReference.cache
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\obj\Debug\DullStore.dll
+D:\HocTap\Nam3_Ky2\Công nghệ web\Bài tập nhóm-Bán giầy\DullStore\DullStore\obj\Debug\DullStore.pdb
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\ApplicationInsights.config
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\roslyn\csc.exe
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\roslyn\System.Collections.Immutable.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\roslyn\vbc.exe
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\roslyn\VBCSCompiler.exe
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\roslyn\VBCSCompiler.exe.config
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\DullStore.dll.config
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\DullStore.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\DullStore.pdb
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\EntityFramework.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\EntityFramework.SqlServer.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.DependencyCollector.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.Web.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.WindowsServer.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.ApplicationInsights.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\PagedList.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\PagedList.Mvc.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Helpers.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Mvc.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Razor.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Webpages.Deployment.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Webpages.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Webpages.Razor.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\EntityFramework.xml
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\EntityFramework.SqlServer.xml
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.DependencyCollector.xml
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.Web.xml
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.WindowsServer.xml
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.ApplicationInsights.xml
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\PagedList.xml
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\PagedList.Mvc.xml
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Razor.xml
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Webpages.xml
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Webpages.Deployment.xml
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Webpages.Razor.xml
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Helpers.xml
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Mvc.xml
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\obj\Debug\DullStore.csprojResolveAssemblyReference.cache
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\obj\Debug\DullStore.dll
+E:\Project test\BTL_CNWEB_E_Viet_K13\ShopGiayOnline\DullStore\DullStore\obj\Debug\DullStore.pdb
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\DullStore.dll.config
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\DullStore.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\DullStore.pdb
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\PagedList.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Webpages.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\PagedList.xml
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Webpages.xml
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\obj\Debug\DullStore.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\obj\Debug\DullStore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\obj\Debug\DullStore.csproj.CopyComplete
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\obj\Debug\DullStore.dll
+C:\Users\Admin\Desktop\ShopGiayOnline\DullStore\DullStore\obj\Debug\DullStore.pdb
